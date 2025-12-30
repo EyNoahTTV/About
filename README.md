@@ -1,9 +1,9 @@
 # Über mich
 | Frage | Antwort |
 | :------: | :---------: |
-| Wie heiße ich? | Ich heiße Noah |
-| Wie alt bin ich? | Ich bin 21 Jahre alt |
-| Was spiele ich gerne? | Ich spiele fast alles |
+| Wie heiße ich? | Noah |
+| Wie alt bin ich? | 23 |
+| Was spiele ich gerne? | fast alles |
 
 # Meine Spiele
 | Produkt Plattform | Produkt Name | Produkt Link |
